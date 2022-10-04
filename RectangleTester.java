@@ -20,6 +20,6 @@ public class RectangleTester
          
          Rectangle r2 = new Rectangle(5,15);
          System.out.println(r2);
-         r2.printArea();
+         r2.printArea(); 
     }
 }
